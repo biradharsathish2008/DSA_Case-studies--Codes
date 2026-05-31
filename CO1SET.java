@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Product {
+class CO1SET {
     String category;
     int price;
     int productId;
